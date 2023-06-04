@@ -7,6 +7,20 @@ h1 {
     text-decoration: underline;
 }
 
+button {
+    background-color: #7e4be4;
+    color: white;
+    padding: 10px;
+    font-size: large;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #a281e5;
+}
+
 li {
     margin: 5px 0px;
 }
